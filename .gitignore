@@ -1,6 +1,6 @@
 .DS_Store
 build/
 docs/
-FaceCamOverlay.zip
+*.zip
 release/*
 !release/ScreenCue.dmg
